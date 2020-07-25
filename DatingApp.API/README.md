@@ -1,1 +1,2 @@
-// TODO : Write something here :P 
+Command to run this project : dotnet run
+Command to automatic restart after file update: Watch dotnet run
